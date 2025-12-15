@@ -28,13 +28,13 @@
           },
           {
             "name": "Ben Harper",
-            "tier": "subheadliner",
+            "tier": "headliner",
             "genre": "folk_americana_country",
             "is_dj": false
           },
           {
             "name": "String Cheese Incident",
-            "tier": "subheadliner",
+            "tier": "headliner",
             "genre": "jam_psych_other",
             "is_dj": false
           },
@@ -349,7 +349,7 @@
           },
           {
             "name": "Neil Young",
-            "tier": "subheadliner",
+            "tier": "headliner",
             "genre": "rock_metal_punk",
             "is_dj": false
           },
@@ -624,7 +624,7 @@
             "is_dj": false
           },
           {
-            "name": "Béla Fleck",
+            "name": "B\u00e9la Fleck",
             "tier": "undercard",
             "genre": "folk_americana_country",
             "is_dj": false
@@ -1063,7 +1063,7 @@
           },
           {
             "name": "The Black Crowes",
-            "tier": "subheadliner",
+            "tier": "headliner",
             "genre": "rock_metal_punk",
             "is_dj": false
           },
@@ -1594,13 +1594,13 @@
           },
           {
             "name": "Phil Lesh & Friends",
-            "tier": "subheadliner",
+            "tier": "headliner",
             "genre": "jam_psych_other",
             "is_dj": false
           },
           {
             "name": "Beck",
-            "tier": "subheadliner",
+            "tier": "headliner",
             "genre": "indie_alt",
             "is_dj": false
           },
@@ -2709,7 +2709,7 @@
             "is_dj": false
           },
           {
-            "name": "Sigur Rós",
+            "name": "Sigur R\u00f3s",
             "tier": "undercard",
             "genre": "indie_alt",
             "is_dj": false
@@ -2835,7 +2835,7 @@
             "is_dj": false
           },
           {
-            "name": "Aimée Mann",
+            "name": "Aim\u00e9e Mann",
             "tier": "undercard",
             "genre": "indie_alt",
             "is_dj": false
@@ -3025,7 +3025,7 @@
           },
           {
             "name": "Nine Inch Nails",
-            "tier": "subheadliner",
+            "tier": "headliner",
             "genre": "indie_alt",
             "is_dj": false
           },
@@ -4630,7 +4630,7 @@
           },
           {
             "name": "The Beach Boys",
-            "tier": "subheadliner",
+            "tier": "headliner",
             "genre": "pop",
             "is_dj": false
           },
@@ -5245,7 +5245,7 @@
           },
           {
             "name": "Wu-Tang Clan",
-            "tier": "subheadliner",
+            "tier": "headliner",
             "genre": "hiphop_rap",
             "is_dj": false
           },
@@ -5292,7 +5292,7 @@
             "is_dj": false
           },
           {
-            "name": "Björk",
+            "name": "Bj\u00f6rk",
             "tier": "undercard",
             "genre": "pop",
             "is_dj": false
@@ -5949,7 +5949,7 @@
             "is_dj": false
           },
           {
-            "name": "Janelle Monáe",
+            "name": "Janelle Mon\u00e1e",
             "tier": "undercard",
             "genre": "rnb_soul_funk",
             "is_dj": false
@@ -6822,7 +6822,7 @@
             "is_dj": false
           },
           {
-            "name": "Béla Fleck & Abigail Washburn",
+            "name": "B\u00e9la Fleck & Abigail Washburn",
             "tier": "undercard",
             "genre": "folk_americana_country",
             "is_dj": false
@@ -6912,7 +6912,7 @@
             "is_dj": true
           },
           {
-            "name": "MØ",
+            "name": "M\u00d8",
             "tier": "undercard",
             "genre": "pop",
             "is_dj": false
@@ -7407,7 +7407,7 @@
             "is_dj": false
           },
           {
-            "name": "Børns",
+            "name": "B\u00f8rns",
             "tier": "undercard",
             "genre": "pop",
             "is_dj": false
@@ -7860,7 +7860,7 @@
             "is_dj": false
           },
           {
-            "name": "Léon",
+            "name": "L\u00e9on",
             "tier": "undercard",
             "genre": "pop",
             "is_dj": false
@@ -7902,7 +7902,7 @@
             "is_dj": false
           },
           {
-            "name": "Angélique Kidjo",
+            "name": "Ang\u00e9lique Kidjo",
             "tier": "undercard",
             "genre": "rnb_soul_funk",
             "is_dj": false
@@ -7932,7 +7932,7 @@
             "is_dj": false
           },
           {
-            "name": "Aminé",
+            "name": "Amin\u00e9",
             "tier": "undercard",
             "genre": "hiphop_rap",
             "is_dj": false
@@ -8304,7 +8304,7 @@
             "is_dj": false
           },
           {
-            "name": "Ten Fé",
+            "name": "Ten F\u00e9",
             "tier": "undercard",
             "genre": "indie_alt",
             "is_dj": false
@@ -8554,13 +8554,13 @@
           },
           {
             "name": "Future",
-            "tier": "subheadliner",
+            "tier": "headliner",
             "genre": "indie_alt",
             "is_dj": false
           },
           {
             "name": "Bassnectar",
-            "tier": "subheadliner",
+            "tier": "headliner",
             "genre": "electronic_edm",
             "is_dj": true
           },
@@ -9804,7 +9804,7 @@
             "is_dj": true
           },
           {
-            "name": "Monsieur Periné",
+            "name": "Monsieur Perin\u00e9",
             "tier": "undercard",
             "genre": "jam_psych_other",
             "is_dj": false
@@ -10377,7 +10377,7 @@
             "is_dj": true
           },
           {
-            "name": "Altın Gün",
+            "name": "Alt\u0131n G\u00fcn",
             "tier": "undercard",
             "genre": "jam_psych_other",
             "is_dj": false
@@ -10903,7 +10903,7 @@
             "is_dj": false
           },
           {
-            "name": "Janelle Monáe",
+            "name": "Janelle Mon\u00e1e",
             "tier": "subheadliner",
             "genre": "rnb_soul_funk",
             "is_dj": false
@@ -11101,7 +11101,7 @@
             "is_dj": true
           },
           {
-            "name": "Notlö",
+            "name": "Notl\u00f6",
             "tier": "undercard",
             "genre": "electronic_edm",
             "is_dj": true
@@ -12884,7 +12884,7 @@
             "is_dj": false
           },
           {
-            "name": "Hermanos Gutiérrez",
+            "name": "Hermanos Guti\u00e9rrez",
             "tier": "undercard",
             "genre": "jam_psych_other",
             "is_dj": false
@@ -12918,21 +12918,39 @@
       {
         "year": 2024,
         "genres": {
-          "electronic_edm": 18.7,
-          "indie_alt": 24.4,
-          "hiphop_rap": 13.8,
-          "rock_metal_punk": 8.9,
-          "folk_americana_country": 8.1,
-          "rnb_soul_funk": 13,
-          "jam_psych_other": 0.8,
-          "pop": 12.2
+          "electronic_edm": 25,
+          "indie_alt": 29,
+          "hiphop_rap": 11,
+          "rock_metal_punk": 11,
+          "folk_americana_country": 10,
+          "rnb_soul_funk": 11,
+          "jam_psych_other": 7,
+          "pop": 5
         },
         "artists": [
           {
             "name": "Pretty Lights",
             "tier": "headliner",
             "genre": "electronic_edm",
+            "is_dj": true
+          },
+          {
+            "name": "Post Malone",
+            "tier": "headliner",
+            "genre": "hiphop_rap",
             "is_dj": false
+          },
+          {
+            "name": "Red Hot Chili Peppers",
+            "tier": "headliner",
+            "genre": "rock_metal_punk",
+            "is_dj": false
+          },
+          {
+            "name": "Fred Again..",
+            "tier": "headliner",
+            "genre": "electronic_edm",
+            "is_dj": true
           },
           {
             "name": "Fisher",
@@ -12941,728 +12959,626 @@
             "is_dj": true
           },
           {
-            "name": "BigXthaPlug",
-            "tier": "undercard",
+            "name": "Megan Thee Stallion",
+            "tier": "subheadliner",
             "genre": "hiphop_rap",
             "is_dj": false
           },
           {
-            "name": "Disco Lines",
-            "tier": "undercard",
-            "genre": "electronic_edm",
-            "is_dj": true
-          },
-          {
-            "name": "Durand Bernarr",
-            "tier": "undercard",
-            "genre": "rnb_soul_funk",
-            "is_dj": false
-          },
-          {
-            "name": "Pretty Lights",
-            "tier": null,
-            "genre": "electronic_edm",
-            "is_dj": false
-          },
-          {
-            "name": "Fisher",
-            "tier": null,
-            "genre": "electronic_edm",
-            "is_dj": true
-          },
-          {
-            "name": "BigXthaPlug",
-            "tier": null,
-            "genre": "hiphop_rap",
-            "is_dj": false
-          },
-          {
-            "name": "Disco Lines",
-            "tier": null,
-            "genre": "electronic_edm",
-            "is_dj": true
-          },
-          {
-            "name": "Durand Bernarr",
-            "tier": null,
-            "genre": "rnb_soul_funk",
-            "is_dj": false
-          },
-          {
-            "name": "Eggy",
-            "tier": null,
-            "genre": "jam_psych_other",
-            "is_dj": false
-          },
-          {
-            "name": "Geese",
-            "tier": null,
+            "name": "Cage the Elephant",
+            "tier": "subheadliner",
             "genre": "indie_alt",
             "is_dj": false
           },
           {
-            "name": "GWAR",
-            "tier": null,
-            "genre": "rock_metal_punk",
-            "is_dj": false
-          },
-          {
-            "name": "The Heavy Heavy",
-            "tier": null,
-            "genre": "indie_alt",
-            "is_dj": false
-          },
-          {
-            "name": "HoneyLuv",
-            "tier": null,
-            "genre": "electronic_edm",
-            "is_dj": true
-          },
-          {
-            "name": "it's murph",
-            "tier": null,
-            "genre": "electronic_edm",
-            "is_dj": true
-          },
-          {
-            "name": "Matt Maltese",
-            "tier": null,
-            "genre": "indie_alt",
-            "is_dj": false
-          },
-          {
-            "name": "Medium Build",
-            "tier": null,
-            "genre": "indie_alt",
-            "is_dj": false
-          },
-          {
-            "name": "Michigander",
-            "tier": null,
-            "genre": "indie_alt",
-            "is_dj": false
-          },
-          {
-            "name": "Militarie Gun",
-            "tier": null,
-            "genre": "rock_metal_punk",
-            "is_dj": false
-          },
-          {
-            "name": "Nation of Language",
-            "tier": null,
-            "genre": "indie_alt",
-            "is_dj": false
-          },
-          {
-            "name": "Neal Francis",
-            "tier": null,
-            "genre": "rnb_soul_funk",
-            "is_dj": false
-          },
-          {
-            "name": "Ocie Elliott",
-            "tier": null,
-            "genre": "folk_americana_country",
-            "is_dj": false
-          },
-          {
-            "name": "Oliver Heldens",
-            "tier": null,
-            "genre": "electronic_edm",
-            "is_dj": true
-          },
-          {
-            "name": "Róisín Murphy",
-            "tier": null,
+            "name": "Melanie Martinez",
+            "tier": "subheadliner",
             "genre": "pop",
             "is_dj": false
           },
           {
-            "name": "Say She She",
-            "tier": null,
-            "genre": "rnb_soul_funk",
-            "is_dj": false
-          },
-          {
-            "name": "Sid Sriram",
-            "tier": null,
-            "genre": "rnb_soul_funk",
-            "is_dj": false
-          },
-          {
-            "name": "Sierra Ferrell",
-            "tier": null,
-            "genre": "folk_americana_country",
-            "is_dj": false
-          },
-          {
-            "name": "Skepta",
-            "tier": null,
-            "genre": "hiphop_rap",
-            "is_dj": false
-          },
-          {
-            "name": "Slow Pulp",
-            "tier": null,
+            "name": "Maggie Rogers",
+            "tier": "subheadliner",
             "genre": "indie_alt",
-            "is_dj": false
-          },
-          {
-            "name": "Suki Waterhouse",
-            "tier": null,
-            "genre": "pop",
-            "is_dj": false
-          },
-          {
-            "name": "Teezo Touchdown",
-            "tier": null,
-            "genre": "hiphop_rap",
-            "is_dj": false
-          },
-          {
-            "name": "The Japanese House",
-            "tier": null,
-            "genre": "indie_alt",
-            "is_dj": false
-          },
-          {
-            "name": "The Teskey Brothers",
-            "tier": null,
-            "genre": "rnb_soul_funk",
-            "is_dj": false
-          },
-          {
-            "name": "Tyla",
-            "tier": null,
-            "genre": "pop",
-            "is_dj": false
-          },
-          {
-            "name": "Vince Staples",
-            "tier": null,
-            "genre": "hiphop_rap",
-            "is_dj": false
-          },
-          {
-            "name": "Whethan",
-            "tier": null,
-            "genre": "electronic_edm",
-            "is_dj": true
-          },
-          {
-            "name": "Wild Rivers",
-            "tier": null,
-            "genre": "folk_americana_country",
-            "is_dj": false
-          },
-          {
-            "name": "Willow",
-            "tier": null,
-            "genre": "rock_metal_punk",
-            "is_dj": false
-          },
-          {
-            "name": "Young the Giant",
-            "tier": null,
-            "genre": "indie_alt",
-            "is_dj": false
-          },
-          {
-            "name": "Zeds Dead",
-            "tier": null,
-            "genre": "electronic_edm",
-            "is_dj": true
-          },
-          {
-            "name": "Brittany Howard",
-            "tier": null,
-            "genre": "rock_metal_punk",
-            "is_dj": false
-          },
-          {
-            "name": "Cimafunk",
-            "tier": null,
-            "genre": "rnb_soul_funk",
-            "is_dj": false
-          },
-          {
-            "name": "Ethel Cain",
-            "tier": null,
-            "genre": "indie_alt",
-            "is_dj": false
-          },
-          {
-            "name": "Four Tet",
-            "tier": null,
-            "genre": "electronic_edm",
-            "is_dj": true
-          },
-          {
-            "name": "Goth Babe",
-            "tier": null,
-            "genre": "indie_alt",
-            "is_dj": false
-          },
-          {
-            "name": "Hippo Campus",
-            "tier": null,
-            "genre": "indie_alt",
-            "is_dj": false
-          },
-          {
-            "name": "Jessie Murph",
-            "tier": null,
-            "genre": "pop",
             "is_dj": false
           },
           {
             "name": "Khruangbin",
-            "tier": null,
-            "genre": "rnb_soul_funk",
+            "tier": "subheadliner",
+            "genre": "jam_psych_other",
             "is_dj": false
           },
           {
-            "name": "Knocked Loose",
-            "tier": null,
-            "genre": "rock_metal_punk",
+            "name": "Cigarettes After Sex",
+            "tier": "subheadliner",
+            "genre": "indie_alt",
+            "is_dj": false
+          },
+          {
+            "name": "Jason Isbell and the 400 Unit",
+            "tier": "subheadliner",
+            "genre": "folk_americana_country",
+            "is_dj": false
+          },
+          {
+            "name": "Seven Lions",
+            "tier": "midcard",
+            "genre": "electronic_edm",
+            "is_dj": true
+          },
+          {
+            "name": "Joe Russo's Almost Dead",
+            "tier": "midcard",
+            "genre": "jam_psych_other",
+            "is_dj": false
+          },
+          {
+            "name": "Dominic Fike",
+            "tier": "midcard",
+            "genre": "indie_alt",
             "is_dj": false
           },
           {
             "name": "Lizzy McAlpine",
-            "tier": null,
-            "genre": "pop",
-            "is_dj": false
-          },
-          {
-            "name": "Marc Rebillet",
-            "tier": null,
-            "genre": "electronic_edm",
-            "is_dj": true
-          },
-          {
-            "name": "Mitski",
-            "tier": null,
+            "tier": "midcard",
             "genre": "indie_alt",
             "is_dj": false
           },
           {
-            "name": "Nelly",
-            "tier": null,
-            "genre": "hiphop_rap",
-            "is_dj": false
-          },
-          {
-            "name": "Nothing But Thieves",
-            "tier": null,
-            "genre": "rock_metal_punk",
-            "is_dj": false
-          },
-          {
-            "name": "Omar Apollo",
-            "tier": null,
-            "genre": "rnb_soul_funk",
-            "is_dj": false
-          },
-          {
-            "name": "Oneohtrix Point Never",
-            "tier": null,
-            "genre": "electronic_edm",
-            "is_dj": true
-          },
-          {
-            "name": "Parcels",
-            "tier": null,
+            "name": "Interpol",
+            "tier": "midcard",
             "genre": "indie_alt",
-            "is_dj": false
-          },
-          {
-            "name": "Poolside",
-            "tier": null,
-            "genre": "electronic_edm",
-            "is_dj": true
-          },
-          {
-            "name": "Romy",
-            "tier": null,
-            "genre": "electronic_edm",
-            "is_dj": true
-          },
-          {
-            "name": "Shakey Graves",
-            "tier": null,
-            "genre": "folk_americana_country",
             "is_dj": false
           },
           {
             "name": "T-Pain",
-            "tier": null,
+            "tier": "midcard",
             "genre": "hiphop_rap",
             "is_dj": false
           },
           {
-            "name": "The War on Drugs",
-            "tier": null,
+            "name": "TV Girl",
+            "tier": "midcard",
             "genre": "indie_alt",
             "is_dj": false
           },
           {
-            "name": "Teddy Swims",
-            "tier": null,
+            "name": "Gary Clark Jr.",
+            "tier": "midcard",
             "genre": "rnb_soul_funk",
             "is_dj": false
           },
           {
-            "name": "The Beaches",
-            "tier": null,
-            "genre": "rock_metal_punk",
-            "is_dj": false
-          },
-          {
-            "name": "The Brook & The Bluff",
-            "tier": null,
-            "genre": "indie_alt",
-            "is_dj": false
-          },
-          {
-            "name": "The Garden",
-            "tier": null,
-            "genre": "rock_metal_punk",
-            "is_dj": false
-          },
-          {
-            "name": "The Red Clay Strays",
-            "tier": null,
-            "genre": "folk_americana_country",
-            "is_dj": false
-          },
-          {
-            "name": "Trombone Shorty & Orleans Avenue",
-            "tier": null,
-            "genre": "rnb_soul_funk",
-            "is_dj": false
-          },
-          {
-            "name": "Two Friends",
-            "tier": null,
-            "genre": "electronic_edm",
-            "is_dj": true
-          },
-          {
-            "name": "Victoria Monét",
-            "tier": null,
-            "genre": "rnb_soul_funk",
-            "is_dj": false
-          },
-          {
-            "name": "Weyes Blood",
-            "tier": null,
-            "genre": "indie_alt",
-            "is_dj": false
-          },
-          {
-            "name": "Yves Tumor",
-            "tier": null,
-            "genre": "indie_alt",
-            "is_dj": false
-          },
-          {
-            "name": "070 Shake",
-            "tier": null,
-            "genre": "hiphop_rap",
-            "is_dj": false
-          },
-          {
-            "name": "Alison Wonderland",
-            "tier": null,
-            "genre": "electronic_edm",
-            "is_dj": true
-          },
-          {
-            "name": "Armand Hammer",
-            "tier": null,
-            "genre": "hiphop_rap",
-            "is_dj": false
-          },
-          {
-            "name": "BadBadNotGood",
-            "tier": null,
-            "genre": "rnb_soul_funk",
-            "is_dj": false
-          },
-          {
-            "name": "Bakar",
-            "tier": null,
-            "genre": "indie_alt",
-            "is_dj": false
-          },
-          {
-            "name": "Bartees Strange",
-            "tier": null,
-            "genre": "indie_alt",
-            "is_dj": false
-          },
-          {
-            "name": "Benson Boone",
-            "tier": null,
-            "genre": "pop",
-            "is_dj": false
-          },
-          {
-            "name": "Blondshell",
-            "tier": null,
-            "genre": "indie_alt",
-            "is_dj": false
-          },
-          {
-            "name": "Bombay Bicycle Club",
-            "tier": null,
-            "genre": "indie_alt",
-            "is_dj": false
-          },
-          {
-            "name": "Brakence",
-            "tier": null,
-            "genre": "pop",
-            "is_dj": false
-          },
-          {
-            "name": "Briston Maroney",
-            "tier": null,
-            "genre": "indie_alt",
-            "is_dj": false
-          },
-          {
-            "name": "Chappell Roan",
-            "tier": null,
-            "genre": "pop",
-            "is_dj": false
-          },
-          {
-            "name": "Coi Leray",
-            "tier": null,
-            "genre": "hiphop_rap",
-            "is_dj": false
-          },
-          {
-            "name": "Cory Wong",
-            "tier": null,
-            "genre": "rnb_soul_funk",
-            "is_dj": false
-          },
-          {
-            "name": "Denzel Curry",
-            "tier": null,
-            "genre": "hiphop_rap",
-            "is_dj": false
-          },
-          {
-            "name": "Dua Lipa",
-            "tier": null,
-            "genre": "pop",
-            "is_dj": false
-          },
-          {
-            "name": "Eagles of Death Metal",
-            "tier": null,
+            "name": "The Mars Volta",
+            "tier": "midcard",
             "genre": "rock_metal_punk",
             "is_dj": false
           },
           {
             "name": "Faye Webster",
-            "tier": null,
+            "tier": "midcard",
             "genre": "indie_alt",
             "is_dj": false
           },
           {
-            "name": "Fletcher",
-            "tier": null,
+            "name": "Thundercat",
+            "tier": "midcard",
+            "genre": "rnb_soul_funk",
+            "is_dj": false
+          },
+          {
+            "name": "Diplo",
+            "tier": "midcard",
+            "genre": "electronic_edm",
+            "is_dj": true
+          },
+          {
+            "name": "Jon Batiste",
+            "tier": "midcard",
+            "genre": "rnb_soul_funk",
+            "is_dj": false
+          },
+          {
+            "name": "Ren\u00e9e Rapp",
+            "tier": "midcard",
             "genre": "pop",
             "is_dj": false
           },
           {
-            "name": "GloRilla",
-            "tier": null,
+            "name": "Parcels",
+            "tier": "midcard",
+            "genre": "indie_alt",
+            "is_dj": false
+          },
+          {
+            "name": "Idles",
+            "tier": "midcard",
+            "genre": "rock_metal_punk",
+            "is_dj": false
+          },
+          {
+            "name": "Brittany Howard",
+            "tier": "midcard",
+            "genre": "rnb_soul_funk",
+            "is_dj": false
+          },
+          {
+            "name": "Sean Paul",
+            "tier": "midcard",
             "genre": "hiphop_rap",
+            "is_dj": false
+          },
+          {
+            "name": "Ethel Cain",
+            "tier": "midcard",
+            "genre": "indie_alt",
+            "is_dj": false
+          },
+          {
+            "name": "Two Friends",
+            "tier": "midcard",
+            "genre": "electronic_edm",
+            "is_dj": true
+          },
+          {
+            "name": "Carly Rae Jepsen",
+            "tier": "midcard",
+            "genre": "pop",
+            "is_dj": false
+          },
+          {
+            "name": "Joey Bada$$",
+            "tier": "midcard",
+            "genre": "hiphop_rap",
+            "is_dj": false
+          },
+          {
+            "name": "Goth Babe",
+            "tier": "midcard",
+            "genre": "indie_alt",
+            "is_dj": false
+          },
+          {
+            "name": "Galantis",
+            "tier": "midcard",
+            "genre": "electronic_edm",
+            "is_dj": true
+          },
+          {
+            "name": "Taking Back Sunday",
+            "tier": "midcard",
+            "genre": "rock_metal_punk",
+            "is_dj": false
+          },
+          {
+            "name": "Ashnikko",
+            "tier": "midcard",
+            "genre": "hiphop_rap",
+            "is_dj": false
+          },
+          {
+            "name": "Four Tet",
+            "tier": "midcard",
+            "genre": "electronic_edm",
+            "is_dj": true
+          },
+          {
+            "name": "Milky Chance",
+            "tier": "midcard",
+            "genre": "indie_alt",
+            "is_dj": false
+          },
+          {
+            "name": "Chappell Roan",
+            "tier": "midcard",
+            "genre": "pop",
             "is_dj": false
           },
           {
             "name": "Greensky Bluegrass",
-            "tier": null,
+            "tier": "midcard",
             "genre": "folk_americana_country",
             "is_dj": false
           },
           {
-            "name": "Gunna",
-            "tier": null,
+            "name": "Key Glock",
+            "tier": "undercard",
             "genre": "hiphop_rap",
             "is_dj": false
           },
           {
-            "name": "Hozier",
-            "tier": null,
-            "genre": "folk_americana_country",
-            "is_dj": false
-          },
-          {
-            "name": "Interpol",
-            "tier": null,
+            "name": "Lovejoy",
+            "tier": "undercard",
             "genre": "indie_alt",
             "is_dj": false
           },
           {
-            "name": "Janelle Monáe",
-            "tier": null,
-            "genre": "rnb_soul_funk",
-            "is_dj": false
-          },
-          {
-            "name": "Jason Isbell and the 400 Unit",
-            "tier": null,
-            "genre": "folk_americana_country",
-            "is_dj": false
-          },
-          {
-            "name": "Jungle",
-            "tier": null,
+            "name": "ISOXO",
+            "tier": "undercard",
             "genre": "electronic_edm",
             "is_dj": true
           },
           {
-            "name": "Kacey Musgraves",
-            "tier": null,
+            "name": "Grouplove",
+            "tier": "undercard",
+            "genre": "indie_alt",
+            "is_dj": false
+          },
+          {
+            "name": "David Kushner",
+            "tier": "undercard",
+            "genre": "indie_alt",
+            "is_dj": false
+          },
+          {
+            "name": "The Japanese House",
+            "tier": "undercard",
+            "genre": "indie_alt",
+            "is_dj": false
+          },
+          {
+            "name": "Dr. Fresch",
+            "tier": "undercard",
+            "genre": "electronic_edm",
+            "is_dj": true
+          },
+          {
+            "name": "49 Winchester",
+            "tier": "undercard",
             "genre": "folk_americana_country",
             "is_dj": false
           },
           {
-            "name": "Khruangbin",
-            "tier": null,
-            "genre": "rnb_soul_funk",
-            "is_dj": false
-          },
-          {
-            "name": "Lana Del Rey",
-            "tier": null,
-            "genre": "pop",
-            "is_dj": false
-          },
-          {
-            "name": "Megan Thee Stallion",
-            "tier": null,
+            "name": "MIKE.",
+            "tier": "undercard",
             "genre": "hiphop_rap",
             "is_dj": false
           },
           {
-            "name": "MUNA",
-            "tier": null,
-            "genre": "pop",
-            "is_dj": false
-          },
-          {
-            "name": "Noah Kahan",
-            "tier": null,
-            "genre": "folk_americana_country",
-            "is_dj": false
-          },
-          {
-            "name": "Paramore",
-            "tier": null,
+            "name": "Larkin Poe",
+            "tier": "undercard",
             "genre": "rock_metal_punk",
             "is_dj": false
           },
           {
-            "name": "Playboi Carti",
-            "tier": null,
-            "genre": "hiphop_rap",
+            "name": "Shy FX",
+            "tier": "undercard",
+            "genre": "electronic_edm",
+            "is_dj": true
+          },
+          {
+            "name": "Bonny Light Horseman",
+            "tier": "undercard",
+            "genre": "folk_americana_country",
             "is_dj": false
           },
           {
-            "name": "Portugal. The Man",
-            "tier": null,
+            "name": "Baby Queen",
+            "tier": "undercard",
             "genre": "indie_alt",
             "is_dj": false
           },
           {
-            "name": "Reneé Rapp",
-            "tier": null,
-            "genre": "pop",
+            "name": "Mdou Moctar",
+            "tier": "undercard",
+            "genre": "jam_psych_other",
             "is_dj": false
           },
           {
-            "name": "Seven Lions",
-            "tier": null,
+            "name": "Jessica Audiffred",
+            "tier": "undercard",
             "genre": "electronic_edm",
             "is_dj": true
           },
           {
-            "name": "Smino",
-            "tier": null,
+            "name": "Half Moon Run",
+            "tier": "undercard",
+            "genre": "indie_alt",
+            "is_dj": false
+          },
+          {
+            "name": "Hamdi",
+            "tier": "undercard",
+            "genre": "electronic_edm",
+            "is_dj": true
+          },
+          {
+            "name": "LVNV",
+            "tier": "undercard",
+            "genre": "electronic_edm",
+            "is_dj": true
+          },
+          {
+            "name": "Gregory Alan Isakov",
+            "tier": "undercard",
+            "genre": "folk_americana_country",
+            "is_dj": false
+          },
+          {
+            "name": "The Teskey Brothers",
+            "tier": "undercard",
+            "genre": "rnb_soul_funk",
+            "is_dj": false
+          },
+          {
+            "name": "Badbadnotgood",
+            "tier": "undercard",
+            "genre": "jam_psych_other",
+            "is_dj": false
+          },
+          {
+            "name": "Teezo Touchdown",
+            "tier": "undercard",
             "genre": "hiphop_rap",
             "is_dj": false
           },
           {
-            "name": "Sofi Tukker",
-            "tier": null,
-            "genre": "electronic_edm",
-            "is_dj": true
-          },
-          {
-            "name": "Tate McRae",
-            "tier": null,
-            "genre": "pop",
-            "is_dj": false
-          },
-          {
-            "name": "The Revivalists",
-            "tier": null,
+            "name": "Whyte Fang",
+            "tier": "undercard",
             "genre": "rock_metal_punk",
             "is_dj": false
           },
           {
-            "name": "Tove Lo",
-            "tier": null,
-            "genre": "pop",
-            "is_dj": false
-          },
-          {
-            "name": "Two Door Cinema Club",
-            "tier": null,
+            "name": "Bakar",
+            "tier": "undercard",
             "genre": "indie_alt",
             "is_dj": false
           },
           {
-            "name": "Vampire Weekend",
-            "tier": null,
-            "genre": "indie_alt",
+            "name": "D4vd",
+            "tier": "undercard",
+            "genre": "rnb_soul_funk",
             "is_dj": false
           },
           {
-            "name": "Victoria Canal",
-            "tier": null,
-            "genre": "indie_alt",
+            "name": "The Maine",
+            "tier": "undercard",
+            "genre": "rock_metal_punk",
             "is_dj": false
           },
           {
-            "name": "Walker & Royce",
-            "tier": null,
+            "name": "Josiah & the Bonnevilles",
+            "tier": "undercard",
+            "genre": "folk_americana_country",
+            "is_dj": false
+          },
+          {
+            "name": "Kasablanca",
+            "tier": "undercard",
             "genre": "electronic_edm",
             "is_dj": true
           },
           {
-            "name": "Wilderado",
-            "tier": null,
+            "name": "Neil Frances",
+            "tier": "undercard",
+            "genre": "electronic_edm",
+            "is_dj": false
+          },
+          {
+            "name": "Tanner Usrey",
+            "tier": "undercard",
+            "genre": "folk_americana_country",
+            "is_dj": false
+          },
+          {
+            "name": "Ryan Beatty",
+            "tier": "undercard",
             "genre": "indie_alt",
             "is_dj": false
           },
           {
-            "name": "Yung Gravy",
-            "tier": null,
+            "name": "Trousdale",
+            "tier": "undercard",
+            "genre": "indie_alt",
+            "is_dj": false
+          },
+          {
+            "name": "Vandelux",
+            "tier": "undercard",
+            "genre": "electronic_edm",
+            "is_dj": true
+          },
+          {
+            "name": "Lovra",
+            "tier": "undercard",
+            "genre": "electronic_edm",
+            "is_dj": true
+          },
+          {
+            "name": "Knock2",
+            "tier": "undercard",
+            "genre": "electronic_edm",
+            "is_dj": true
+          },
+          {
+            "name": "Charles Wesley Godwin",
+            "tier": "undercard",
+            "genre": "folk_americana_country",
+            "is_dj": false
+          },
+          {
+            "name": "The Garden",
+            "tier": "undercard",
+            "genre": "rock_metal_punk",
+            "is_dj": false
+          },
+          {
+            "name": "Yves Tumor",
+            "tier": "undercard",
+            "genre": "jam_psych_other",
+            "is_dj": false
+          },
+          {
+            "name": "The Beaches",
+            "tier": "undercard",
+            "genre": "indie_alt",
+            "is_dj": false
+          },
+          {
+            "name": "Jake Wesley Rogers",
+            "tier": "undercard",
+            "genre": "pop",
+            "is_dj": false
+          },
+          {
+            "name": "S.G. Goodman",
+            "tier": "undercard",
+            "genre": "folk_americana_country",
+            "is_dj": false
+          },
+          {
+            "name": "Libianca",
+            "tier": "undercard",
+            "genre": "rnb_soul_funk",
+            "is_dj": false
+          },
+          {
+            "name": "Tsha",
+            "tier": "undercard",
+            "genre": "electronic_edm",
+            "is_dj": true
+          },
+          {
+            "name": "Irreversible Entanglements",
+            "tier": "undercard",
+            "genre": "jam_psych_other",
+            "is_dj": false
+          },
+          {
+            "name": "Armand Hammer",
+            "tier": "undercard",
             "genre": "hiphop_rap",
             "is_dj": false
           },
           {
-            "name": "ZHU",
-            "tier": null,
+            "name": "Veggi",
+            "tier": "undercard",
+            "genre": "electronic_edm",
+            "is_dj": true
+          },
+          {
+            "name": "BigXthaPlug",
+            "tier": "undercard",
+            "genre": "hiphop_rap",
+            "is_dj": false
+          },
+          {
+            "name": "Disco Lines",
+            "tier": "undercard",
+            "genre": "indie_alt",
+            "is_dj": false
+          },
+          {
+            "name": "Durand Bernarr",
+            "tier": "undercard",
+            "genre": "rnb_soul_funk",
+            "is_dj": false
+          },
+          {
+            "name": "Eggy",
+            "tier": "undercard",
+            "genre": "jam_psych_other",
+            "is_dj": false
+          },
+          {
+            "name": "Geese",
+            "tier": "undercard",
+            "genre": "indie_alt",
+            "is_dj": false
+          },
+          {
+            "name": "GWAR",
+            "tier": "undercard",
+            "genre": "rock_metal_punk",
+            "is_dj": false
+          },
+          {
+            "name": "The Heavy Heavy",
+            "tier": "undercard",
+            "genre": "rock_metal_punk",
+            "is_dj": false
+          },
+          {
+            "name": "Honeyluv",
+            "tier": "undercard",
+            "genre": "electronic_edm",
+            "is_dj": true
+          },
+          {
+            "name": "It's Murph",
+            "tier": "undercard",
+            "genre": "indie_alt",
+            "is_dj": false
+          },
+          {
+            "name": "Matt Maltese",
+            "tier": "undercard",
+            "genre": "indie_alt",
+            "is_dj": false
+          },
+          {
+            "name": "Medium Build",
+            "tier": "undercard",
+            "genre": "indie_alt",
+            "is_dj": false
+          },
+          {
+            "name": "Michigander",
+            "tier": "undercard",
+            "genre": "indie_alt",
+            "is_dj": false
+          },
+          {
+            "name": "Militarie Gun",
+            "tier": "undercard",
+            "genre": "rock_metal_punk",
+            "is_dj": false
+          },
+          {
+            "name": "Nation of Language",
+            "tier": "undercard",
+            "genre": "indie_alt",
+            "is_dj": false
+          },
+          {
+            "name": "Neal Francis",
+            "tier": "undercard",
+            "genre": "rnb_soul_funk",
+            "is_dj": false
+          },
+          {
+            "name": "Ocie Elliott",
+            "tier": "undercard",
+            "genre": "folk_americana_country",
+            "is_dj": false
+          },
+          {
+            "name": "Oliver Heldens",
+            "tier": "undercard",
+            "genre": "electronic_edm",
+            "is_dj": true
+          },
+          {
+            "name": "R\u00f3is\u00edn Murphy",
+            "tier": "undercard",
+            "genre": "electronic_edm",
+            "is_dj": false
+          },
+          {
+            "name": "Say She She",
+            "tier": "undercard",
+            "genre": "rnb_soul_funk",
+            "is_dj": false
+          },
+          {
+            "name": "Sid Sriram",
+            "tier": "undercard",
+            "genre": "rnb_soul_funk",
+            "is_dj": false
+          },
+          {
+            "name": "Sudden Death",
+            "tier": "undercard",
             "genre": "electronic_edm",
             "is_dj": true
           }
@@ -13671,14 +13587,14 @@
       {
         "year": 2025,
         "genres": {
-          "electronic_edm": 30.3,
-          "indie_alt": 20.2,
-          "hiphop_rap": 9.2,
-          "rock_metal_punk": 11.9,
-          "folk_americana_country": 11.9,
-          "rnb_soul_funk": 2.8,
-          "jam_psych_other": 2.8,
-          "pop": 11
+          "electronic_edm": 26,
+          "indie_alt": 34,
+          "hiphop_rap": 10,
+          "rock_metal_punk": 10,
+          "folk_americana_country": 11,
+          "rnb_soul_funk": 5,
+          "jam_psych_other": 3,
+          "pop": 7
         },
         "artists": [
           {
@@ -13688,10 +13604,298 @@
             "is_dj": false
           },
           {
+            "name": "Tyler, The Creator",
+            "tier": "headliner",
+            "genre": "hiphop_rap",
+            "is_dj": false
+          },
+          {
+            "name": "Olivia Rodrigo",
+            "tier": "headliner",
+            "genre": "pop",
+            "is_dj": false
+          },
+          {
+            "name": "Hozier",
+            "tier": "headliner",
+            "genre": "indie_alt",
+            "is_dj": false
+          },
+          {
+            "name": "Vampire Weekend",
+            "tier": "headliner",
+            "genre": "indie_alt",
+            "is_dj": false
+          },
+          {
             "name": "Dom Dolla",
             "tier": "subheadliner",
             "genre": "electronic_edm",
             "is_dj": true
+          },
+          {
+            "name": "John Summit",
+            "tier": "subheadliner",
+            "genre": "electronic_edm",
+            "is_dj": true
+          },
+          {
+            "name": "Glass Animals",
+            "tier": "subheadliner",
+            "genre": "indie_alt",
+            "is_dj": false
+          },
+          {
+            "name": "Avril Lavigne",
+            "tier": "subheadliner",
+            "genre": "pop",
+            "is_dj": false
+          },
+          {
+            "name": "Justice",
+            "tier": "subheadliner",
+            "genre": "electronic_edm",
+            "is_dj": false
+          },
+          {
+            "name": "Queens of the Stone Age",
+            "tier": "subheadliner",
+            "genre": "rock_metal_punk",
+            "is_dj": false
+          },
+          {
+            "name": "King Gizzard & the Lizard Wizard",
+            "tier": "subheadliner",
+            "genre": "jam_psych_other",
+            "is_dj": false
+          },
+          {
+            "name": "Tipper",
+            "tier": "subheadliner",
+            "genre": "electronic_edm",
+            "is_dj": true
+          },
+          {
+            "name": "Nelly",
+            "tier": "subheadliner",
+            "genre": "hiphop_rap",
+            "is_dj": false
+          },
+          {
+            "name": "Lszee",
+            "tier": "subheadliner",
+            "genre": "electronic_edm",
+            "is_dj": true
+          },
+          {
+            "name": "Marcus King",
+            "tier": "midcard",
+            "genre": "rnb_soul_funk",
+            "is_dj": false
+          },
+          {
+            "name": "Green Velvet",
+            "tier": "midcard",
+            "genre": "electronic_edm",
+            "is_dj": true
+          },
+          {
+            "name": "2hollis",
+            "tier": "midcard",
+            "genre": "indie_alt",
+            "is_dj": false
+          },
+          {
+            "name": "Insane Clown Posse",
+            "tier": "midcard",
+            "genre": "hiphop_rap",
+            "is_dj": false
+          },
+          {
+            "name": "Ggoose",
+            "tier": "midcard",
+            "genre": "electronic_edm",
+            "is_dj": true
+          },
+          {
+            "name": "The Red Clay Strays",
+            "tier": "midcard",
+            "genre": "folk_americana_country",
+            "is_dj": false
+          },
+          {
+            "name": "Rainbow Kitten Surprise",
+            "tier": "midcard",
+            "genre": "indie_alt",
+            "is_dj": false
+          },
+          {
+            "name": "Megadeth",
+            "tier": "midcard",
+            "genre": "rock_metal_punk",
+            "is_dj": false
+          },
+          {
+            "name": "Wallows",
+            "tier": "midcard",
+            "genre": "indie_alt",
+            "is_dj": false
+          },
+          {
+            "name": "Foster the People",
+            "tier": "midcard",
+            "genre": "indie_alt",
+            "is_dj": false
+          },
+          {
+            "name": "Slightly Stoopid",
+            "tier": "midcard",
+            "genre": "jam_psych_other",
+            "is_dj": false
+          },
+          {
+            "name": "JPEGMafia",
+            "tier": "midcard",
+            "genre": "hiphop_rap",
+            "is_dj": false
+          },
+          {
+            "name": "Marina",
+            "tier": "midcard",
+            "genre": "pop",
+            "is_dj": false
+          },
+          {
+            "name": "The Backseat Lovers",
+            "tier": "midcard",
+            "genre": "indie_alt",
+            "is_dj": false
+          },
+          {
+            "name": "Jelly Roll",
+            "tier": "midcard",
+            "genre": "hiphop_rap",
+            "is_dj": false
+          },
+          {
+            "name": "Mannequin Pussy",
+            "tier": "midcard",
+            "genre": "rock_metal_punk",
+            "is_dj": false
+          },
+          {
+            "name": "Neon Indian",
+            "tier": "midcard",
+            "genre": "indie_alt",
+            "is_dj": false
+          },
+          {
+            "name": "Glorilla",
+            "tier": "midcard",
+            "genre": "hiphop_rap",
+            "is_dj": false
+          },
+          {
+            "name": "Mt. Joy",
+            "tier": "midcard",
+            "genre": "indie_alt",
+            "is_dj": false
+          },
+          {
+            "name": "RL Grime",
+            "tier": "midcard",
+            "genre": "electronic_edm",
+            "is_dj": true
+          },
+          {
+            "name": "Beabadoobee",
+            "tier": "midcard",
+            "genre": "indie_alt",
+            "is_dj": false
+          },
+          {
+            "name": "Tyla",
+            "tier": "midcard",
+            "genre": "rnb_soul_funk",
+            "is_dj": false
+          },
+          {
+            "name": "Jessie Murph",
+            "tier": "midcard",
+            "genre": "folk_americana_country",
+            "is_dj": false
+          },
+          {
+            "name": "Modest Mouse",
+            "tier": "midcard",
+            "genre": "indie_alt",
+            "is_dj": false
+          },
+          {
+            "name": "Gorgon City",
+            "tier": "midcard",
+            "genre": "electronic_edm",
+            "is_dj": true
+          },
+          {
+            "name": "Flatland Cavalry",
+            "tier": "midcard",
+            "genre": "folk_americana_country",
+            "is_dj": false
+          },
+          {
+            "name": "Action Bronson",
+            "tier": "midcard",
+            "genre": "hiphop_rap",
+            "is_dj": false
+          },
+          {
+            "name": "Remi Wolf",
+            "tier": "midcard",
+            "genre": "indie_alt",
+            "is_dj": false
+          },
+          {
+            "name": "Raye",
+            "tier": "midcard",
+            "genre": "rnb_soul_funk",
+            "is_dj": false
+          },
+          {
+            "name": "Royel Otis",
+            "tier": "midcard",
+            "genre": "indie_alt",
+            "is_dj": false
+          },
+          {
+            "name": "Dispatch",
+            "tier": "midcard",
+            "genre": "folk_americana_country",
+            "is_dj": false
+          },
+          {
+            "name": "Role Model",
+            "tier": "midcard",
+            "genre": "indie_alt",
+            "is_dj": false
+          },
+          {
+            "name": "Barry Can't Swim",
+            "tier": "midcard",
+            "genre": "electronic_edm",
+            "is_dj": true
+          },
+          {
+            "name": "Treaty Oak Revival",
+            "tier": "midcard",
+            "genre": "folk_americana_country",
+            "is_dj": false
+          },
+          {
+            "name": "Big Gigantic",
+            "tier": "midcard",
+            "genre": "electronic_edm",
+            "is_dj": false
           },
           {
             "name": "Sammy Virji",
@@ -13700,639 +13904,333 @@
             "is_dj": true
           },
           {
-            "name": "Luke Combs",
-            "tier": null,
-            "genre": "folk_americana_country",
-            "is_dj": false
-          },
-          {
-            "name": "Dom Dolla",
-            "tier": null,
-            "genre": "electronic_edm",
-            "is_dj": true
-          },
-          {
-            "name": "Sammy Virji",
-            "tier": null,
-            "genre": "electronic_edm",
-            "is_dj": true
-          },
-          {
-            "name": "Marcus King",
-            "tier": null,
-            "genre": "folk_americana_country",
-            "is_dj": false
-          },
-          {
-            "name": "Green Velvet",
-            "tier": null,
-            "genre": "electronic_edm",
-            "is_dj": true
-          },
-          {
-            "name": "2Hollis",
-            "tier": null,
-            "genre": "electronic_edm",
-            "is_dj": true
-          },
-          {
-            "name": "Insane Clown Posse",
-            "tier": null,
-            "genre": "hiphop_rap",
-            "is_dj": false
-          },
-          {
             "name": "Joey Valence & Brae",
-            "tier": null,
+            "tier": "undercard",
             "genre": "hiphop_rap",
             "is_dj": false
           },
           {
             "name": "Daniel Donato's Cosmic Country",
-            "tier": null,
+            "tier": "undercard",
             "genre": "folk_americana_country",
             "is_dj": false
           },
           {
             "name": "Wilderado",
-            "tier": null,
+            "tier": "undercard",
             "genre": "indie_alt",
             "is_dj": false
           },
           {
             "name": "Max Styler",
-            "tier": null,
+            "tier": "undercard",
             "genre": "electronic_edm",
             "is_dj": true
           },
           {
-            "name": "Azzecca",
-            "tier": null,
+            "name": "Aztecca",
+            "tier": "undercard",
             "genre": "electronic_edm",
             "is_dj": true
           },
           {
             "name": "The Lemon Twigs",
-            "tier": null,
-            "genre": "rock_metal_punk",
+            "tier": "undercard",
+            "genre": "indie_alt",
             "is_dj": false
           },
           {
-            "name": "Wisp",
-            "tier": null,
-            "genre": "electronic_edm",
-            "is_dj": true
+            "name": "WISP",
+            "tier": "undercard",
+            "genre": "indie_alt",
+            "is_dj": false
           },
           {
-            "name": "Soha Isella",
-            "tier": null,
+            "name": "Sofia Isella",
+            "tier": "undercard",
             "genre": "indie_alt",
             "is_dj": false
           },
           {
             "name": "Kitchen Dwellers",
-            "tier": null,
+            "tier": "undercard",
             "genre": "folk_americana_country",
             "is_dj": false
           },
           {
             "name": "Dogs in a Pile",
-            "tier": null,
+            "tier": "undercard",
             "genre": "jam_psych_other",
             "is_dj": false
           },
           {
             "name": "Die Spitz",
-            "tier": null,
+            "tier": "undercard",
             "genre": "rock_metal_punk",
             "is_dj": false
           },
           {
             "name": "Hey, Nothing",
-            "tier": null,
+            "tier": "undercard",
             "genre": "indie_alt",
             "is_dj": false
           },
           {
             "name": "The Droptines",
-            "tier": null,
-            "genre": "folk_americana_country",
-            "is_dj": false
-          },
-          {
-            "name": "Tyler, The Creator",
-            "tier": null,
-            "genre": "hiphop_rap",
-            "is_dj": false
-          },
-          {
-            "name": "John Summit",
-            "tier": null,
-            "genre": "electronic_edm",
-            "is_dj": true
-          },
-          {
-            "name": "Glass Animals",
-            "tier": null,
+            "tier": "undercard",
             "genre": "indie_alt",
-            "is_dj": false
-          },
-          {
-            "name": "Tipper",
-            "tier": null,
-            "genre": "electronic_edm",
-            "is_dj": true
-          },
-          {
-            "name": "Goose",
-            "tier": null,
-            "genre": "jam_psych_other",
-            "is_dj": false
-          },
-          {
-            "name": "The Red Clay Strays",
-            "tier": null,
-            "genre": "folk_americana_country",
-            "is_dj": false
-          },
-          {
-            "name": "Rainbow Kitten Surprise",
-            "tier": null,
-            "genre": "indie_alt",
-            "is_dj": false
-          },
-          {
-            "name": "Megadeth",
-            "tier": null,
-            "genre": "rock_metal_punk",
-            "is_dj": false
-          },
-          {
-            "name": "Wallows",
-            "tier": null,
-            "genre": "indie_alt",
-            "is_dj": false
-          },
-          {
-            "name": "Foster The People",
-            "tier": null,
-            "genre": "indie_alt",
-            "is_dj": false
-          },
-          {
-            "name": "Slightly Stoopid",
-            "tier": null,
-            "genre": "jam_psych_other",
             "is_dj": false
           },
           {
             "name": "Flipturn",
-            "tier": null,
+            "tier": "undercard",
             "genre": "indie_alt",
             "is_dj": false
           },
           {
-            "name": "Of The Trees",
-            "tier": null,
+            "name": "Of the Trees",
+            "tier": "undercard",
             "genre": "electronic_edm",
             "is_dj": true
           },
           {
-            "name": "JPEGMafia",
-            "tier": null,
-            "genre": "hiphop_rap",
-            "is_dj": false
-          },
-          {
-            "name": "Marina",
-            "tier": null,
-            "genre": "pop",
-            "is_dj": false
-          },
-          {
-            "name": "Tape B",
-            "tier": null,
-            "genre": "electronic_edm",
-            "is_dj": true
-          },
-          {
-            "name": "MJ Lenderman",
-            "tier": null,
+            "name": "DeadBeach",
+            "tier": "undercard",
             "genre": "indie_alt",
-            "is_dj": false
-          },
-          {
-            "name": "Bossman Dlow",
-            "tier": null,
-            "genre": "hiphop_rap",
             "is_dj": false
           },
           {
             "name": "Inzo",
-            "tier": null,
+            "tier": "undercard",
             "genre": "electronic_edm",
             "is_dj": true
           },
           {
-            "name": "Levity",
-            "tier": null,
+            "name": "Jesuty",
+            "tier": "undercard",
             "genre": "electronic_edm",
             "is_dj": true
           },
           {
-            "name": "Mannequin Pussy",
-            "tier": null,
+            "name": "CUTS",
+            "tier": "undercard",
             "genre": "rock_metal_punk",
             "is_dj": false
           },
           {
-            "name": "Leon Thomas",
-            "tier": null,
-            "genre": "rnb_soul_funk",
-            "is_dj": false
-          },
-          {
-            "name": "Cults",
-            "tier": null,
-            "genre": "indie_alt",
-            "is_dj": false
-          },
-          {
             "name": "Aly & AJ",
-            "tier": null,
+            "tier": "undercard",
             "genre": "pop",
             "is_dj": false
           },
           {
             "name": "Matt Champion",
-            "tier": null,
+            "tier": "undercard",
             "genre": "hiphop_rap",
             "is_dj": false
           },
           {
             "name": "Detox Unit",
-            "tier": null,
+            "tier": "undercard",
             "genre": "electronic_edm",
             "is_dj": true
           },
           {
             "name": "Rachel Chinouriri",
-            "tier": null,
+            "tier": "undercard",
             "genre": "indie_alt",
             "is_dj": false
           },
           {
             "name": "Eater",
-            "tier": null,
+            "tier": "undercard",
             "genre": "rock_metal_punk",
             "is_dj": false
           },
           {
             "name": "Ginger Root",
-            "tier": null,
-            "genre": "rnb_soul_funk",
+            "tier": "undercard",
+            "genre": "indie_alt",
             "is_dj": false
           },
           {
             "name": "Bebe Stockwell",
-            "tier": null,
+            "tier": "undercard",
             "genre": "indie_alt",
             "is_dj": false
           },
           {
             "name": "Effin",
-            "tier": null,
+            "tier": "undercard",
             "genre": "electronic_edm",
             "is_dj": true
-          },
-          {
-            "name": "Olivia Rodrigo",
-            "tier": null,
-            "genre": "pop",
-            "is_dj": false
-          },
-          {
-            "name": "Avril Lavigne",
-            "tier": null,
-            "genre": "rock_metal_punk",
-            "is_dj": false
-          },
-          {
-            "name": "Justice",
-            "tier": null,
-            "genre": "electronic_edm",
-            "is_dj": true
-          },
-          {
-            "name": "Nelly",
-            "tier": null,
-            "genre": "hiphop_rap",
-            "is_dj": false
-          },
-          {
-            "name": "Glorilla",
-            "tier": null,
-            "genre": "hiphop_rap",
-            "is_dj": false
-          },
-          {
-            "name": "Mt. Joy",
-            "tier": null,
-            "genre": "indie_alt",
-            "is_dj": false
-          },
-          {
-            "name": "RL Grime",
-            "tier": null,
-            "genre": "electronic_edm",
-            "is_dj": true
-          },
-          {
-            "name": "Beabadoobee",
-            "tier": null,
-            "genre": "indie_alt",
-            "is_dj": false
-          },
-          {
-            "name": "Tyla",
-            "tier": null,
-            "genre": "pop",
-            "is_dj": false
-          },
-          {
-            "name": "Jessie Murph",
-            "tier": null,
-            "genre": "pop",
-            "is_dj": false
-          },
-          {
-            "name": "Modest Mouse",
-            "tier": null,
-            "genre": "indie_alt",
-            "is_dj": false
-          },
-          {
-            "name": "Gorgon City",
-            "tier": null,
-            "genre": "electronic_edm",
-            "is_dj": true
-          },
-          {
-            "name": "Flatland Cavalry",
-            "tier": null,
-            "genre": "folk_americana_country",
-            "is_dj": false
           },
           {
             "name": "Hot Mulligan",
-            "tier": null,
+            "tier": "undercard",
             "genre": "rock_metal_punk",
-            "is_dj": false
-          },
-          {
-            "name": "Action Bronson",
-            "tier": null,
-            "genre": "hiphop_rap",
             "is_dj": false
           },
           {
             "name": "Crankdat",
-            "tier": null,
+            "tier": "undercard",
             "genre": "electronic_edm",
             "is_dj": true
           },
           {
             "name": "Dope Lemon",
-            "tier": null,
+            "tier": "undercard",
             "genre": "indie_alt",
             "is_dj": false
           },
           {
             "name": "Gigi Perez",
-            "tier": null,
+            "tier": "undercard",
             "genre": "indie_alt",
             "is_dj": false
           },
           {
-            "name": "Wave To Earth",
-            "tier": null,
+            "name": "Wave to Earth",
+            "tier": "undercard",
             "genre": "indie_alt",
             "is_dj": false
           },
           {
             "name": "Claptone",
-            "tier": null,
+            "tier": "undercard",
             "genre": "electronic_edm",
             "is_dj": true
           },
           {
             "name": "Jade Cicada",
-            "tier": null,
+            "tier": "undercard",
             "genre": "electronic_edm",
             "is_dj": true
           },
           {
             "name": "What So Not",
-            "tier": null,
+            "tier": "undercard",
             "genre": "electronic_edm",
             "is_dj": true
           },
           {
-            "name": "Daði Freyr",
-            "tier": null,
-            "genre": "pop",
+            "name": "Dabi Freyr",
+            "tier": "undercard",
+            "genre": "indie_alt",
             "is_dj": false
           },
           {
             "name": "Ziggy Alberts",
-            "tier": null,
+            "tier": "undercard",
             "genre": "folk_americana_country",
             "is_dj": false
           },
           {
             "name": "Rossy",
-            "tier": null,
-            "genre": "electronic_edm",
-            "is_dj": true
+            "tier": "undercard",
+            "genre": "indie_alt",
+            "is_dj": false
           },
           {
             "name": "Destroy Boys",
-            "tier": null,
+            "tier": "undercard",
             "genre": "rock_metal_punk",
             "is_dj": false
           },
           {
             "name": "The Stews",
-            "tier": null,
+            "tier": "undercard",
             "genre": "rock_metal_punk",
             "is_dj": false
           },
           {
-            "name": "Thee Sinseers & The Altons",
-            "tier": null,
+            "name": "Thee Sinseers & the Altons",
+            "tier": "undercard",
             "genre": "rnb_soul_funk",
             "is_dj": false
           },
           {
             "name": "Ahee",
-            "tier": null,
-            "genre": "electronic_edm",
-            "is_dj": true
-          },
-          {
-            "name": "Hozier",
-            "tier": null,
-            "genre": "folk_americana_country",
-            "is_dj": false
-          },
-          {
-            "name": "Vampire Weekend",
-            "tier": null,
-            "genre": "indie_alt",
-            "is_dj": false
-          },
-          {
-            "name": "Queens of the Stone Age",
-            "tier": null,
-            "genre": "rock_metal_punk",
-            "is_dj": false
-          },
-          {
-            "name": "Lszee",
-            "tier": null,
-            "genre": "electronic_edm",
-            "is_dj": true
-          },
-          {
-            "name": "Remi Wolf",
-            "tier": null,
-            "genre": "pop",
-            "is_dj": false
-          },
-          {
-            "name": "Rave",
-            "tier": null,
-            "genre": "electronic_edm",
-            "is_dj": true
-          },
-          {
-            "name": "Royel Otis",
-            "tier": null,
-            "genre": "indie_alt",
-            "is_dj": false
-          },
-          {
-            "name": "Dispatch",
-            "tier": null,
-            "genre": "folk_americana_country",
-            "is_dj": false
-          },
-          {
-            "name": "Role Model",
-            "tier": null,
-            "genre": "pop",
-            "is_dj": false
-          },
-          {
-            "name": "Barry Can't Swim",
-            "tier": null,
-            "genre": "electronic_edm",
-            "is_dj": true
-          },
-          {
-            "name": "Treaty Oak Revival",
-            "tier": null,
-            "genre": "folk_americana_country",
-            "is_dj": false
-          },
-          {
-            "name": "Big Gigantic",
-            "tier": null,
+            "tier": "undercard",
             "genre": "electronic_edm",
             "is_dj": true
           },
           {
             "name": "Jack's Mannequin",
-            "tier": null,
+            "tier": "undercard",
             "genre": "indie_alt",
             "is_dj": false
           },
           {
             "name": "Atliens",
-            "tier": null,
+            "tier": "undercard",
             "genre": "electronic_edm",
             "is_dj": true
           },
           {
             "name": "Bilmuri",
-            "tier": null,
+            "tier": "undercard",
             "genre": "rock_metal_punk",
             "is_dj": false
           },
           {
             "name": "Saint Motel",
-            "tier": null,
+            "tier": "undercard",
             "genre": "indie_alt",
             "is_dj": false
           },
           {
             "name": "James Arthur",
-            "tier": null,
+            "tier": "undercard",
             "genre": "pop",
             "is_dj": false
           },
           {
             "name": "Alex Warren",
-            "tier": null,
+            "tier": "undercard",
             "genre": "pop",
             "is_dj": false
           },
           {
             "name": "Zingara",
-            "tier": null,
-            "genre": "electronic_edm",
-            "is_dj": true
+            "tier": "undercard",
+            "genre": "folk_americana_country",
+            "is_dj": false
           },
           {
             "name": "Natasha Bedingfield",
-            "tier": null,
+            "tier": "undercard",
             "genre": "pop",
             "is_dj": false
           },
           {
             "name": "Alexandra Kay",
-            "tier": null,
+            "tier": "undercard",
             "genre": "folk_americana_country",
             "is_dj": false
           },
           {
             "name": "Goldie Boutilier",
-            "tier": null,
-            "genre": "pop",
+            "tier": "undercard",
+            "genre": "indie_alt",
             "is_dj": false
           },
           {
-            "name": "Grace Bowers & The Hodge Podge",
-            "tier": null,
-            "genre": "rock_metal_punk",
+            "name": "Grace Bowers & the Hodge Podge",
+            "tier": "undercard",
+            "genre": "rnb_soul_funk",
             "is_dj": false
           },
           {
             "name": "Gorillat",
-            "tier": null,
-            "genre": "hiphop_rap",
-            "is_dj": false
-          },
-          {
-            "name": "YDG",
-            "tier": null,
+            "tier": "undercard",
             "genre": "electronic_edm",
             "is_dj": true
           },
           {
-            "name": "King Gizzard & The Lizard Wizard (RCO Residency: 3 Sets, 3 Days)",
-            "tier": null,
-            "genre": "rock_metal_punk",
+            "name": "YDG",
+            "tier": "undercard",
+            "genre": "hiphop_rap",
             "is_dj": false
           }
         ],
@@ -14508,7 +14406,7 @@
             "is_dj": false
           },
           {
-            "name": "Łaszewo",
+            "name": "\u0141aszewo",
             "tier": "undercard",
             "genre": "electronic_edm",
             "is_dj": true
@@ -14586,7 +14484,7 @@
             "is_dj": false
           },
           {
-            "name": "Rüfüs Du Sol",
+            "name": "R\u00fcf\u00fcs Du Sol",
             "tier": "headliner",
             "genre": "electronic_edm",
             "is_dj": true
@@ -14802,7 +14700,7 @@
             "is_dj": false
           },
           {
-            "name": "Rölé Model",
+            "name": "R\u00f6l\u00e9 Model",
             "tier": "headliner",
             "genre": "electronic_edm",
             "is_dj": true
@@ -14946,7 +14844,7 @@
             "is_dj": false
           },
           {
-            "name": "Mōtīv",
+            "name": "M\u014dt\u012bv",
             "tier": "undercard",
             "genre": "electronic_edm",
             "is_dj": false
@@ -15550,7 +15448,7 @@
         "genre": "folk_americana_country"
       },
       {
-        "name": "Béla Fleck",
+        "name": "B\u00e9la Fleck",
         "year": 2003,
         "tier": "undercard",
         "genre": "folk_americana_country"
@@ -17560,7 +17458,7 @@
         "genre": "rnb_soul_funk"
       },
       {
-        "name": "Sigur Rós",
+        "name": "Sigur R\u00f3s",
         "year": 2008,
         "tier": "undercard",
         "genre": "indie_alt"
@@ -17686,7 +17584,7 @@
         "genre": "folk_americana_country"
       },
       {
-        "name": "Aimée Mann",
+        "name": "Aim\u00e9e Mann",
         "year": 2008,
         "tier": "undercard",
         "genre": "indie_alt"
@@ -20068,7 +19966,7 @@
         "genre": "electronic_edm"
       },
       {
-        "name": "Björk",
+        "name": "Bj\u00f6rk",
         "year": 2013,
         "tier": "undercard",
         "genre": "pop"
@@ -20710,7 +20608,7 @@
         "genre": "indie_alt"
       },
       {
-        "name": "Janelle Monáe",
+        "name": "Janelle Mon\u00e1e",
         "year": 2014,
         "tier": "undercard",
         "genre": "rnb_soul_funk"
@@ -21568,7 +21466,7 @@
         "genre": "electronic_edm"
       },
       {
-        "name": "Béla Fleck & Abigail Washburn",
+        "name": "B\u00e9la Fleck & Abigail Washburn",
         "year": 2015,
         "tier": "undercard",
         "genre": "folk_americana_country"
@@ -21658,7 +21556,7 @@
         "genre": "electronic_edm"
       },
       {
-        "name": "MØ",
+        "name": "M\u00d8",
         "year": 2015,
         "tier": "undercard",
         "genre": "pop"
@@ -22138,7 +22036,7 @@
         "genre": "hiphop_rap"
       },
       {
-        "name": "Børns",
+        "name": "B\u00f8rns",
         "year": 2016,
         "tier": "undercard",
         "genre": "pop"
@@ -22576,7 +22474,7 @@
         "genre": "indie_alt"
       },
       {
-        "name": "Léon",
+        "name": "L\u00e9on",
         "year": 2017,
         "tier": "undercard",
         "genre": "pop"
@@ -22618,7 +22516,7 @@
         "genre": "jam_psych_other"
       },
       {
-        "name": "Angélique Kidjo",
+        "name": "Ang\u00e9lique Kidjo",
         "year": 2017,
         "tier": "undercard",
         "genre": "rnb_soul_funk"
@@ -22648,7 +22546,7 @@
         "genre": "hiphop_rap"
       },
       {
-        "name": "Aminé",
+        "name": "Amin\u00e9",
         "year": 2017,
         "tier": "undercard",
         "genre": "hiphop_rap"
@@ -23020,7 +22918,7 @@
         "genre": "indie_alt"
       },
       {
-        "name": "Ten Fé",
+        "name": "Ten F\u00e9",
         "year": 2017,
         "tier": "undercard",
         "genre": "indie_alt"
@@ -24490,7 +24388,7 @@
         "genre": "electronic_edm"
       },
       {
-        "name": "Monsieur Periné",
+        "name": "Monsieur Perin\u00e9",
         "year": 2019,
         "tier": "undercard",
         "genre": "jam_psych_other"
@@ -25048,7 +24946,7 @@
         "genre": "electronic_edm"
       },
       {
-        "name": "Altın Gün",
+        "name": "Alt\u0131n G\u00fcn",
         "year": 2020,
         "tier": "undercard",
         "genre": "jam_psych_other"
@@ -25558,7 +25456,7 @@
         "genre": "hiphop_rap"
       },
       {
-        "name": "Janelle Monáe",
+        "name": "Janelle Mon\u00e1e",
         "year": 2021,
         "tier": "subheadliner",
         "genre": "rnb_soul_funk"
@@ -25756,7 +25654,7 @@
         "genre": "electronic_edm"
       },
       {
-        "name": "Notlö",
+        "name": "Notl\u00f6",
         "year": 2021,
         "tier": "undercard",
         "genre": "electronic_edm"
@@ -27508,7 +27406,7 @@
         "genre": "indie_alt"
       },
       {
-        "name": "Hermanos Gutiérrez",
+        "name": "Hermanos Guti\u00e9rrez",
         "year": 2023,
         "tier": "undercard",
         "genre": "jam_psych_other"
@@ -27682,7 +27580,7 @@
         "genre": "electronic_edm"
       },
       {
-        "name": "Róisín Murphy",
+        "name": "R\u00f3is\u00edn Murphy",
         "year": 2024,
         "tier": null,
         "genre": "pop"
@@ -27958,7 +27856,7 @@
         "genre": "electronic_edm"
       },
       {
-        "name": "Victoria Monét",
+        "name": "Victoria Mon\u00e9t",
         "year": 2024,
         "tier": null,
         "genre": "rnb_soul_funk"
@@ -28120,7 +28018,7 @@
         "genre": "indie_alt"
       },
       {
-        "name": "Janelle Monáe",
+        "name": "Janelle Mon\u00e1e",
         "year": 2024,
         "tier": null,
         "genre": "rnb_soul_funk"
@@ -28192,7 +28090,7 @@
         "genre": "indie_alt"
       },
       {
-        "name": "Reneé Rapp",
+        "name": "Rene\u00e9 Rapp",
         "year": 2024,
         "tier": null,
         "genre": "pop"
@@ -28732,7 +28630,7 @@
         "genre": "electronic_edm"
       },
       {
-        "name": "Daði Freyr",
+        "name": "Da\u00f0i Freyr",
         "year": 2025,
         "tier": null,
         "genre": "pop"
@@ -29086,7 +28984,7 @@
         "genre": "indie_alt"
       },
       {
-        "name": "Łaszewo",
+        "name": "\u0141aszewo",
         "year": 2026,
         "tier": "undercard",
         "genre": "electronic_edm"
@@ -29164,7 +29062,7 @@
         "genre": "rnb_soul_funk"
       },
       {
-        "name": "Rüfüs Du Sol",
+        "name": "R\u00fcf\u00fcs Du Sol",
         "year": 2026,
         "tier": "headliner",
         "genre": "electronic_edm"
@@ -29380,7 +29278,7 @@
         "genre": "folk_americana_country"
       },
       {
-        "name": "Rölé Model",
+        "name": "R\u00f6l\u00e9 Model",
         "year": 2026,
         "tier": "headliner",
         "genre": "electronic_edm"
@@ -29524,7 +29422,7 @@
         "genre": "indie_alt"
       },
       {
-        "name": "Mōtīv",
+        "name": "M\u014dt\u012bv",
         "year": 2026,
         "tier": "undercard",
         "genre": "electronic_edm"
